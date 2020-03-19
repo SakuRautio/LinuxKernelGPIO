@@ -8,7 +8,7 @@ Requires [libgpiod][].
 
 Build command: `g++ -Wall -Og Led.cpp Blinker.cpp /usr/lib/arm-linux-gnueabihf/libgpiod.a -o Blinker.exe`.
 
-Running the program: `./Blinker`.
+Running the program: `./Blinker.exe`.
 
 ---
 
